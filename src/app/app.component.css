@@ -1,0 +1,22 @@
+
+table, th, td{
+    border: 2px solid black;
+}
+.heading{
+    border: 2px solid blue;
+}
+.success{
+    color: green;
+}
+.warn{
+    color: goldenrod;
+}
+.danger{
+    color: red;
+}
+.special{
+    font-style: italic;
+}
+html{
+    background-color: aqua;
+}
